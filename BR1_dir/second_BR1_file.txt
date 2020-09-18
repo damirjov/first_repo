@@ -2,4 +2,5 @@ just another  text  file in  BR1  branch
 
 
 
-add another line
+add another line   to see  how  merge works 
+
